@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary  # Or 'pymysql' if using MySQL
+pydantic
+langgraph
+langchain-core
+langchain-groq
